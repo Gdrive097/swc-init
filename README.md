@@ -7,7 +7,7 @@ A powerful CLI tool to scaffold a modern Node.js backend using the MVC pattern â
 
 ---
 
-## ðŸš€ Features
+##  Features
 
 -  Clean MVC folder structure (`models/`, `controllers/`, `routes/`, etc.)
 -  Auto-installs popular packages: `express`, `mongoose`, `dotenv`, `cors`, and more
@@ -18,7 +18,7 @@ A powerful CLI tool to scaffold a modern Node.js backend using the MVC pattern â
 
 ---
 
-## ðŸ“¦ Installation
+##  Installation
 
 
 You can use `swc-init` either with `npx` (no install required) or install it globally:
