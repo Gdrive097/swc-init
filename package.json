@@ -3,11 +3,7 @@
     "swc-init": "./bin/index.js"
   },
   "name": "swc-init",
-<<<<<<< HEAD
   "version": "1.0.4",
-=======
-  "version": "1.0.2",
->>>>>>> 638f0d7 (version updated)
   "type": "module",
   "description": "CLI to initialize an MVC Node.js project with common dependencies",
   "main": "index.js",
