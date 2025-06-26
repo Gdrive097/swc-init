@@ -55,7 +55,7 @@ export async function createProject({ test = false }) {
   copyTemplate('controller.js', 'controllers/sampleController.js');
   copyTemplate('model.js', 'models/sampleModel.js');
   copyTemplate('route.js', 'routes/sampleRoute.js');
-  copyTemplate('gitignore', '.gitignore');
+//  copyTemplate('gitignore', '.gitignore');
 
   fs.writeFileSync('swc-init.config.json', JSON.stringify({
   "createdBy": "swc-init",
