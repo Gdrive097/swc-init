@@ -1,0 +1,24 @@
+{
+  "bin": {
+    "swc-init": "./bin/index.js"
+  },
+  "name": "swc-init",
+  "version": "1.0.9",
+  "type": "module",
+  "description": "CLI to initialize an MVC Node.js project with common dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "clipboardy": "^4.0.0",
+    "dotenv": "^16.5.0",
+    "inquirer": "^12.6.1",
+    "swc-init": "file:"
+  }
+}
