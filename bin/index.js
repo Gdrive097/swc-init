@@ -2,9 +2,9 @@
 
 import { createProject } from '../commands/createProject.js';
 import { config } from 'dotenv';
-const inquirer = require('inquirer');
-const fs = require('fs');
-const path = require('path');
+import inquirer from 'inquirer';
+import fs from 'fs';
+import path from 'path';
 
 config();
 const args = process.argv.slice(2);
